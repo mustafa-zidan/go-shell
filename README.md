@@ -8,11 +8,11 @@ That is: read, parse, fork, exec, and wait.
 Since its purpose is demonstration (not feature completeness or even fitness for casual use),
 it has many limitations, including:
 
-	- Commands must be on a single line.
-	- Arguments must be separated by whitespace.
- 	- No quoting arguments or escaping whitespace.
-    - No piping or redirection.
-   	- Only builtins are: cd, help, exit.
+- Commands must be on a single line.
+- Arguments must be separated by whitespace.
+- No quoting arguments or escaping whitespace.
+- No piping or redirection.
+- Only builtins are: cd, help, exit.
 
 ## Contributing
 
@@ -23,4 +23,4 @@ However, that doesn't mean that you shouldn't play with the code, make changes, 
 
 ## License
 
-See LICENSE file
+See [LICENSE](LICENSE) file
